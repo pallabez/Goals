@@ -20,7 +20,7 @@ End goal : Build out usable version of my Market Graph app
 **Node js**
 
 - Learn how to Setup eslint, chai & mocha and comfortable configuring them.
-- Deploy my social networking app(socio) to heroku and have another version which is using firestore
+- Deploy my social networking app [socio](https://github.com/pallabez/Socio) to heroku and have another version which is using firestore
 
 
 **JavaScript**
