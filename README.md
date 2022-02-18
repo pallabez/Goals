@@ -14,7 +14,7 @@
 - Display Graphs 
 - Connect React with api
 - Testing
-End goal : Build out usable version of my Market Graph app
+- End goal : Build out usable version of my Market Graph app
 
 
 **Node js**
